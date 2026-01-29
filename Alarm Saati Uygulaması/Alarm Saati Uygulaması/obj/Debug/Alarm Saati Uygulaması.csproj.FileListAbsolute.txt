@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\bin\Debug\Alarm Saati Uygulaması.exe.config
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\bin\Debug\Alarm Saati Uygulaması.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\bin\Debug\Alarm Saati Uygulaması.pdb
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\obj\Debug\Alarm Saati Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\obj\Debug\Alarm_Saati_Uygulaması.Form1.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\obj\Debug\Alarm_Saati_Uygulaması.Properties.Resources.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\obj\Debug\Alarm Saati Uygulaması.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\obj\Debug\Alarm Saati Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\obj\Debug\Alarm Saati Uygulaması.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Alarm Saati Uygulaması\Alarm Saati Uygulaması\obj\Debug\Alarm Saati Uygulaması.pdb
